@@ -160,10 +160,6 @@ body {
 input [type="email"] {
   border: none;
 }
-
-
-}
-
 .text-work {
   max-width: 2500px;
 }
@@ -187,7 +183,7 @@ input [type="email"] {
 .text-work-h3 {
   font-size: 30px;
   text-align: center;
-  margin: 5px o 5px 30%;
+  margin: 5px 0 5px 30%;
 }
 
 .foto-works {
