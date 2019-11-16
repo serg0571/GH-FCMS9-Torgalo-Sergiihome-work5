@@ -94,7 +94,8 @@ body {
   margin-right: 10px;
   background-color: #f7600e;
 }
-.offer-button1:hover{
+
+.offer-button1:hover {
   background-color: blue;
 }
 
@@ -160,6 +161,7 @@ body {
 input [type="email"] {
   border: none;
 }
+
 .text-work {
   max-width: 2500px;
 }
@@ -207,7 +209,8 @@ input [type="email"] {
   color: #f7600e;
   text-decoration: none;
 }
-.button-submit-block-4:hover{
+
+.button-submit-block-4:hover {
   background-color: grey;
 }
 
@@ -229,7 +232,8 @@ input [type="email"] {
   text-decoration: none;
   display: inline-block;
 }
-.button-submit-block:hover{
+
+.button-submit-block:hover {
   background-color: grey;
 }
 
